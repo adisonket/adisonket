@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanket Adhikary</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adisonket&label=Profile%20views&color=0e75b6&style=flat" alt="adisonket" /> </p>
 
 ---
 
@@ -53,10 +52,9 @@
 
 ---
 
-<h3 align="center">🐍 Watch my contributions get eaten by a snake 🐍</h3>
+<br clear="both">
 
-<p align="center">
-  <img src="https://github.com/adisonket/adisonket/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ---
