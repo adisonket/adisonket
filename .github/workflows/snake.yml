@@ -1,13 +1,11 @@
 # File: .github/workflows/snake.yml
 
-name: Generate Snake Animation
+name: Generate Stylish Snake Animation
 
 on:
-  # Runs at every midnight
   schedule:
-    - cron: "0 0 * * *"
-  # Allows manual run from GitHub Actions tab
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Every day at midnight
+  workflow_dispatch:      # Allow manual trigger
 
 jobs:
   generate:
@@ -17,17 +15,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+      - name: Generate Stylish GitHub Contribution Snake 🐍
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: adisonket
           outputs: |
             output/github-contribution-grid-snake.svg
+          # 🌈 Style options
+          color_snake: "#00ffcc"
+          color_dots: "#444444,#c70039,#ffbd69,#8c52ff,#00bfff"
+          color_grid: "#00000000"
+          speed: 2
+          pause: 0
+          animation_duration: 4s
+          frame_interval: 1
 
-      - name: Commit and Push changes
+      - name: Commit and Push snake.svg
         uses: EndBug/add-and-commit@v9
         with:
           author_name: GitHub Actions
           author_email: actions@github.com
-          message: "Generate contribution grid snake animation"
+          message: "Update snake animation"
           add: "output/github-contribution-grid-snake.svg"
