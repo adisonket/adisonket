@@ -1,6 +1,6 @@
 # File: .github/workflows/snake.yml
 
-name: Generate Stylish Snake Animation
+name: Generate Cyberpunk Snake Animation
 
 on:
   schedule:
@@ -15,16 +15,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Stylish GitHub Contribution Snake 🐍
+      - name: Generate Cyberpunk GitHub Contribution Snake 🐍
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: adisonket
           outputs: |
             output/github-contribution-grid-snake.svg
-          # 🌈 Style options
-          color_snake: "#00ffcc"
-          color_dots: "#444444,#c70039,#ffbd69,#8c52ff,#00bfff"
-          color_grid: "#00000000"
+          # Cyberpunk Style ✨
+          color_snake: "#00ffff"                 # Neon Cyan Snake
+          color_dots: "#ff00ff,#8f00ff,#ffff00,#00ffff,#ff00ff"  # Magenta, Purple, Yellow, Cyan
+          color_grid: "#00000000"                # Transparent background
           speed: 2
           pause: 0
           animation_duration: 4s
@@ -35,5 +35,5 @@ jobs:
         with:
           author_name: GitHub Actions
           author_email: actions@github.com
-          message: "Update snake animation"
+          message: "Update Cyberpunk snake animation"
           add: "output/github-contribution-grid-snake.svg"
