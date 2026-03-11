@@ -45,11 +45,11 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<!-- <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adisonket&theme=dracula&column=6&margin-w=10&margin-h=10" alt="GitHub Trophy" />
-</p>
+</p> -->
 
 ---
 <picture>
