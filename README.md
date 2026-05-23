@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=adisonket&label=Profile%20views&color=0e75b6&style=flat" alt="adisonket" /> </p>
 <h1 align="center">Hi 👋, I'm Sanket Adhikary</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer</h3>
 
 ---
 
@@ -10,15 +10,6 @@
   <img src="https://streak-stats.demolab.com/?user=adisonket&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<!-- Stats -->
-<p align="center">
-  <img src="https://YOUR_NEW_VERCEL_URL/api?username=adisonket&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://YOUR_NEW_VERCEL_URL/api/top-langs/?username=adisonket&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
-</p>
 
 ---
 
