@@ -2,13 +2,12 @@
 <h1 align="center">Hi 👋, I'm Sanket Adhikary</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-
 ---
 
 <h3 align="center">🔥 GitHub Stats & Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adisonket&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=adisonket&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -59,4 +58,3 @@
 </picture>
 
 ---
-
