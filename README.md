@@ -10,12 +10,14 @@
   <img src="https://streak-stats.demolab.com/?user=adisonket&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </p>
 
+<!-- Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adisonket&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
+  <img src="https://YOUR_NEW_VERCEL_URL/api?username=adisonket&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisonket&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+  <img src="https://YOUR_NEW_VERCEL_URL/api/top-langs/?username=adisonket&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
